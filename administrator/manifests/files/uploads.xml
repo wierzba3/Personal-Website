@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="file" version="2.5" method="upgrade">
+	<name>Uploads</name>
+	<author>MintJoomla</author>
+	<creationDate>March 2012</creationDate>
+	<copyright><![CDATA[ (c) 2005-2012 MintJoomla]]></copyright>
+	<license>GPL GNU</license>
+	<authorEmail>support@mintjoomla.com</authorEmail>
+	<authorUrl>http://www.mintjoomla.com</authorUrl>
+	<version>1.0</version>
+	<description>Create default upload folder for Cobalt 7</description>
+
+	<fileset>
+		<files>
+			<folder>uploads</folder>
+		</files>
+	</fileset>
+
+</extension>
