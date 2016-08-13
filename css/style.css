@@ -33,7 +33,7 @@ body a:hover{
 }
 /*--baner--*/
 .banner {
-	background:url(../images/a.jpg)no-repeat center 0px;
+	background:url(../images/background5.jpeg)no-repeat center 0px;
 	-webkit-background-size:cover;
 	background-size:cover;
 	-moz-background-size:cover;
@@ -518,9 +518,14 @@ h2.resp-accordion {
     float: right;
     width: 46%;
 }
+.address-center {
+	float: center;
+	width: 100%;
+}
 .contact p {
     color: #fff;
     font-weight: 300;
+    float: center;
 }
 .contact p a {
     color: #fff;
@@ -1046,6 +1051,9 @@ p {
 }
 .contact-form input[type="submit"] {
     font-size: 0.9em;
+    display: block;
+	margin-right: auto;
+	margin-left: auto;
 }
 }
 @media(max-width:320px){
