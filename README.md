@@ -1,2 +1,2 @@
 My personal website
-http://www.jameswierzba.com/
+http://jameswierzba.me/
